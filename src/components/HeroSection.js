@@ -3,7 +3,6 @@ import './HeroSection.css';
 import { Button } from './Button';
 import { Link } from 'react-router-dom';
 import Options from './Options';
-
 function HeroSection({
   lightBg,
   topLine,
@@ -48,7 +47,7 @@ function HeroSection({
                   {description}
                 </p>
                 {spawnButton ? (
-                  <Link to={'/' + link}>
+                  <Link to={link} target='_blank'>
                   <Button buttonSize='btn--wide' buttonColor='red'>
                     {buttonLabel}
                   </Button>

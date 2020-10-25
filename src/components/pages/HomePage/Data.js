@@ -8,10 +8,10 @@ export const homeObjOne = {
     'Sleuth is an open source React.js website dedicated to presenting up to date Covid-19 data through visualizations and statistics.',
   buttonLabel: 'Source Code',
   spawnButton: true,
-  link: '/www.github.com/erobin27/Covid19-Tracker',
+  link: '//www.github.com/erobin27/Covid19-Tracker',
   imgStart: '',
   img: 'images/codeSVG.svg',
-  alt: 'map',
+  alt: 'code',
   options: false
 };
 
