@@ -2,16 +2,16 @@ export const homeObjOne = {
   lightBg: false,
   lightText: true,
   lightTextDesc: true,
-  topLine: 'Track Corona Virus',
-  headline: 'Welcome to Sleuth, a visual Covid-19 Tracker',
+  topLine: 'Coming soon...',
+  headline: 'Hold tight, we are still working on the Map!',
   description:
-    'Sleuth is an open source React.js website dedicated to presenting up to date Covid-19 data through visualizations and statistics.',
+    'The map visual is still being worked on but should be up and running in no time, feel free to check out our chart page instead!',
   buttonLabel: 'Source Code',
-  spawnButton: true,
-  link: '//www.github.com/erobin27/SleuthWebsite',
+  spawnButton: false,
+  link: 'www.github.com/erobin27/Covid19-Tracker',
   imgStart: '',
-  img: 'images/codeSVG.svg',
-  alt: 'code',
+  img: 'images/workingSVG.svg',
+  alt: 'map',
   options: false
 };
 
